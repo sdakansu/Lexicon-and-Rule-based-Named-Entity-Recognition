@@ -29,6 +29,8 @@ There are 5 lexicon scripts
 * Person.py
 * Time.py
 
+## Usage
+
 ner.py is the main script file. The program can be run with following command:                                    
 python ner.py input_file > output_file
 
