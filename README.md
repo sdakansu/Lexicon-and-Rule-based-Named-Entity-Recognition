@@ -5,10 +5,10 @@ A rule-based named entity recognition system (NER) for Turkish. The NER system i
 İlk cumhurbaşkanı Mustafa Kemal Atatürk'tür. 
 Başkenti Ankara'dır."""
 
-The NER program gives outputs:
-Line 1: ORGANIZATION Türkiye Cumhuriyeti 
-Line 1: TIME 1923
-Line 2: PERSON Mustafa Kemal Atatürk
-Line 3: LOCATION Ankara
+The NER program gives outputs:\n
+Line 1: ORGANIZATION Türkiye Cumhuriyeti \n
+Line 1: TIME 1923\n
+Line 2: PERSON Mustafa Kemal Atatürk\n
+Line 3: LOCATION Ankara\n
 
 
