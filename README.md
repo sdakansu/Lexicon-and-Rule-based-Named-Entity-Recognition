@@ -6,9 +6,9 @@ A rule-based named entity recognition system (NER) for Turkish. The NER system i
 Başkenti Ankara'dır.*
 
 The NER program gives outputs:
-Line 1: ORGANIZATION Türkiye Cumhuriyeti
-Line 1: TIME 1923
-Line 2: PERSON Mustafa Kemal Atatürk
-Line 3: LOCATION Ankara
+Line 1: ORGANIZATION Türkiye Cumhuriyeti  
+Line 1: TIME 1923 
+Line 2: PERSON Mustafa Kemal Atatürk  
+Line 3: LOCATION Ankara 
 
 
