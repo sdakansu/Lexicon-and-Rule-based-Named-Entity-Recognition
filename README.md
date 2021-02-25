@@ -13,3 +13,7 @@ Line 2: PERSON Mustafa Kemal Atatürk
 Line 3: LOCATION Ankara
 
 
+TensorFlow was originally developed by researchers and engineers working on the
+Google Brain team within Google's Machine Intelligence Research organization to
+conduct machine learning and deep neural networks research. The system is
+general enough to be applicable in a wide variety of other domains, as well.
