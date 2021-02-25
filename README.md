@@ -1,9 +1,9 @@
 # Lexicon-and-Rule-based-Named-Entity-Recognition
 A rule-based named entity recognition system (NER) for Turkish. The NER system identifies followings over a given Turkish text:  Person, Location, Organization,Date and Time
 
-"""Türkiye Cumhuriyeti 1923 yılında kurulmuştur. 
+*Türkiye Cumhuriyeti 1923 yılında kurulmuştur. 
 İlk cumhurbaşkanı Mustafa Kemal Atatürk'tür. 
-Başkenti Ankara'dır."""
+Başkenti Ankara'dır.*
 
 The NER program gives outputs:\n
 Line 1: ORGANIZATION Türkiye Cumhuriyeti \n
