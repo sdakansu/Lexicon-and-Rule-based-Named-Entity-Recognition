@@ -5,11 +5,15 @@ A rule-based named entity recognition system (NER) for Turkish. The NER system i
 * Organization                                                                          
 * Date and Time                                                                                             
 
+## Input
+
 Input txt file that contains following 3 lines:            
 
 *Türkiye Cumhuriyeti 1923 yılında kurulmuştur.                                    
 İlk cumhurbaşkanı Mustafa Kemal Atatürk'tür.                            
-Başkenti Ankara'dır.*                                                     
+Başkenti Ankara'dır.*          
+
+## Output
 
 The NER program gives outputs:
 
